@@ -1,113 +1,127 @@
-# 👋 Hi, I'm Ishant Kumar
+# Ishant Kumar
 
-B.Com Student | AI Data Analytics | Finance Analytics | Aspiring Data Scientist
+**B.Com Student | AI Data Analytics | Finance Analytics**
 
-Welcome to my professional portfolio. This repository documents my journey from a commerce student to an AI-powered Data Analytics professional through continuous learning, real-world projects, and practical problem solving.
+Welcome to my professional portfolio.
 
----
-
-# 🎯 Career Goal
-
-To become an AI Data Analyst specializing in Finance & Business Analytics, pursue a Master's degree abroad, and build data-driven solutions that create real business value.
+This repository serves as the central hub of my journey from a commerce student to an AI-powered Data Analytics professional. Here you'll find my projects, certifications, resume, and the practical work that reflects my continuous growth.
 
 ---
 
-# 📚 Current Learning Journey
+# About Me
 
-### 🎓 Education
+I am currently pursuing a Bachelor of Commerce while developing expertise in Data Analytics, Artificial Intelligence, and Business Problem Solving.
 
-* B.Com (Semester 3)
+My long-term objective is to build intelligent, data-driven solutions for finance and business while pursuing graduate studies abroad.
 
-### 📖 Current Course
+Rather than focusing only on completing courses, I believe in learning by building. Every project in this portfolio represents a real application of concepts I have learned throughout my journey.
 
-* DeepLearning.AI – Data Analytics Professional Certificate (Course 1)
+---
 
-### 🛠 Currently Learning
+# Current Focus
 
-* Data Analytics Fundamentals
+### Currently Learning
+
+* DeepLearning.AI – Data Analytics Professional Certificate
 * Microsoft Excel
-* SQL
-* Python
-* Tableau / Power BI
-* Generative AI for Data Analytics
+* Business & Finance Analytics
+
+### Currently Building
+
+*No active project.*
+
+*(This section will always contain only one active project.)*
+
+### Next Milestone
+
+* Complete Course 1
+* Build my first Data Analytics project
+* Begin SQL
 
 ---
 
-# 🚀 Project Showcase
+# Project Showcase
 
-| Project                    | Status         | Skills      |
-| -------------------------- | -------------- | ----------- |
-| Personal Finance Dashboard | 🟡 In Progress | Excel       |
-| SQL Business Analytics     | ⚪ Planned      | SQL         |
-| Customer Segmentation      | ⚪ Planned      | Python      |
-| AI Financial Assistant     | ⚪ Planned      | Python + AI |
+| Project     | Status  | Technologies |
+| ----------- | ------- | ------------ |
+| Coming Soon | Planned | —            |
+
+> Every completed project receives its own dedicated repository containing the complete workflow, documentation, datasets, results, and business insights.
 
 ---
 
-# 💻 Technical Skills
+# Technical Skills
 
 ## Data Analytics
 
-* Data Cleaning
-* Data Visualization
-* Dashboard Design
-* Business Analysis
-
-## Programming
-
-* SQL (Learning)
-* Python (Learning)
-
-## Tools
-
-* Microsoft Excel
-* Git & GitHub
-* Tableau (Planned)
-* Power BI (Planned)
+* Excel *(Learning)*
+* SQL *(Planned)*
+* Python *(Planned)*
+* Tableau / Power BI *(Planned)*
 
 ## Artificial Intelligence
 
 * Generative AI
-* Prompt Engineering
-* AI-Assisted Analytics
+* AI-assisted Data Analysis
+
+## Version Control
+
+* Git
+* GitHub
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 ## In Progress
 
 * DeepLearning.AI – Data Analytics Professional Certificate
 
-## Planned
+## Completed
 
-* Google Data Analytics Professional Certificate
+*Coming Soon.*
 
 ---
 
-# 📈 Progress Timeline
+# Career Timeline
 
 ## 2026
 
-* ✅ Started AI Data Analytics Journey
-* ✅ Created Professional GitHub Portfolio
-* ✅ Started DeepLearning.AI Professional Certificate
-* ⬜ Complete Course 1
-* ⬜ Build First Portfolio Project
-* ⬜ Learn Excel
-* ⬜ Learn SQL
-* ⬜ Learn Python
-* ⬜ First Internship
+* Started my AI Data Analytics journey.
+* Built my professional GitHub portfolio.
+* Began the DeepLearning.AI Professional Certificate.
+* Building practical projects alongside my learning.
 
 ---
 
-# 🎯 Current Focus
+# Philosophy
 
-My current priority is developing strong analytical thinking and building high-quality portfolio projects instead of collecting certificates. Every project in this portfolio is designed to solve a real-world business or finance problem using data analytics and AI.
+> Learn deeply.
+>
+> Build consistently.
+>
+> Solve real problems.
+>
+> Document the journey.
+>
+> Never stop improving.
 
 ---
 
-# 📬 Connect With Me
+# Repository Structure
 
-* GitHub: IshantAnalytics
-* LinkedIn: (Coming Soon)
+This portfolio contains:
+
+* Resume
+* Certificates
+* Project Showcase
+
+Each completed project is maintained in its own dedicated GitHub repository to keep the work organized, reproducible, and easy to explore.
+
+---
+
+# Connect
+
+GitHub: **IshantAnalytics**
+
+LinkedIn: *(Coming Soon)*
