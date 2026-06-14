@@ -32,11 +32,18 @@ Rather than focusing only on completing courses, I believe in learning by buildi
 
 *(This section will always contain only one active project.)*
 
-### Next Milestone
+# Next Milestone
 
-* Complete Course 1
-* Build my first Data Analytics project
-* Begin SQL
+## Phase 1 — Foundations
+
+Current Objective:
+Build a strong foundation in Data Analytics before starting portfolio projects.
+
+Current Roadmap:
+- Complete DeepLearning.AI Course 1
+- Learn Microsoft Excel
+- Develop analytical thinking
+- Build my first portfolio-ready project
 
 ---
 
